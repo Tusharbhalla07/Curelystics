@@ -158,7 +158,7 @@ export default function About() {
             {/* Member 1 */}
             <div className="text-center">
               <div className="w-64 h-64 mx-auto mb-6 rounded-full overflow-hidden border-4 border-blue-600">
-                <img src="/team/member1.jpg" alt="Tushar Bhalla" className="w-full h-full object-cover" />
+                <img src="./team/member1.jpg" alt="Tushar Bhalla" className="w-full h-full object-cover" />
               </div>
               <h3 className="font-semibold text-lg text-slate-900 dark:text-white mb-1">
                 Tushar Bhalla
@@ -171,7 +171,7 @@ export default function About() {
             {/* Member 2 */}
             <div className="text-center">
               <div className="w-64 h-64 mx-auto mb-6 rounded-full overflow-hidden border-4 border-teal-600">
-                <img src="/team/member2.jpg" alt="Himanshu Singh" className="w-full h-full object-cover" />
+                <img src="./team/member2.jpg" alt="Himanshu Singh" className="w-full h-full object-cover" />
               </div>
               <h3 className="font-semibold text-lg text-slate-900 dark:text-white mb-1">
                 Himanshu Singh
