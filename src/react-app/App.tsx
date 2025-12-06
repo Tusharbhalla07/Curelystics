@@ -12,7 +12,7 @@ import ContactPage from "@/react-app/pages/Contact";
 export default function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename="/Curelystics">
         <div className="min-h-screen bg-white dark:bg-slate-900 transition-colors">
           <Navigation />
           <Routes>
